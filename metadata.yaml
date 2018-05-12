@@ -1,4 +1,5 @@
 _repo: Tolstoy_49435
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Miall, Bernard
@@ -6,6 +7,9 @@ contributor:
     birthdate: 1876
     gutenberg_agent_id: '1214'
     url: http://www.gutenberg.org/2009/agents/1214
+covers:
+- cover_type: archival
+  image_path: 49435-h/images/cover.jpg
 creator:
   author:
     agent_name: Rolland, Romain
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2602
     wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49435#Tolstoy
 gutenberg_issued: '2015-07-13'
 gutenberg_type: Text
 identifiers:
